@@ -1,0 +1,28 @@
+.container{
+  min-height: 100px;
+}
+.btn-container {
+    display: flex;
+  }
+  
+  .btn-container .btn {
+    margin-right: 5px; 
+  }
+
+.vertical-line {
+  position: absolute;
+  width: 20px; 
+  height: 100%; 
+  color: aqua;
+}
+
+.vertical-line .yellow {
+  background-color: yellow; 
+  color: aqua;
+}
+
+.vertical-line .green {
+  background-color: green;
+}
+
+
